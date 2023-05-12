@@ -6,9 +6,9 @@ VMESS_WSPATH='/vmess'
 VLESS_WSPATH='/vless'
 TROJAN_WSPATH='/trojan'
 SS_WSPATH='/shadowsocks'
-NEZHA_SERVER="probe.nezha.org"
-NEZHA_PORT=5555
-NEZHA_KEY="p2RYaBPrCEiFro7W0Y"
+NEZHA_SERVER="data.azhz.eu.org"
+NEZHA_PORT=443
+NEZHA_KEY="l5owdclCqASfn1xkc9 "
 
 # 安装系统依赖
 check_dependencies() {
